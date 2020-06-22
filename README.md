@@ -1,6 +1,6 @@
 # flutter_restaurant
 
-A new Flutter project.
+A new Flutter project.This project is not complete. Is just a simple templating exercise.
 
 ## Getting Started
 
